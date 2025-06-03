@@ -1,36 +1,34 @@
 <span id="ru"><a href='#ru'>🇷🇺</a> &nbsp;&nbsp;&nbsp;<a href='#en'>🇺🇸</a> &nbsp;&nbsp;&nbsp;</span><br><br>
 
-![з4](https://github.com/user-attachments/assets/a9d4f52e-9145-40b0-a004-098ae7cb6ab1)
+![з2](https://github.com/user-attachments/assets/347c20b5-a2bd-4a70-9f20-84e451028618)
 
 <iframe width="315" height="560" src="https://www.youtube.com/embed/3cbO-7EmhvE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
 
-Каждый новенький ребенок
-Вылезает из пеленок
-И теряется повсюду
-И находится везде!
-Он всегда куда-то мчится
-Он ужасно огорчится,
-Если что-нибудь на свете
-Вдруг случится без него!
+Хорошо бродить по свету
+С карамелькой за щекой
+А ещё одну для друга
+Взять в кармашек про запас
 
-Предыдущий урок: stolbitsa.com/fistachka/obezyanki<br><br>
+Потому что, потому что
+Всех нужнее и дороже
+Всех доверчивей и строже
+В этом мире доброта
+В этом мире доброта<br><br>
 
 <span id="en"><a href='#ru'>🇷🇺</a> &nbsp;&nbsp;&nbsp;<a href='#en'>🇺🇸</a> &nbsp;&nbsp;&nbsp;</span><br><br>
 
-![з4](https://github.com/user-attachments/assets/a9d4f52e-9145-40b0-a004-098ae7cb6ab1)
+![з2](https://github.com/user-attachments/assets/347c20b5-a2bd-4a70-9f20-84e451028618)
 
 <iframe width="315" height="560" src="https://www.youtube.com/embed/MtLR7r-Mlbc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
 
-Kazhdyj noven'kij rebenok
-Vylezaet iz pelenok
-I teryaetsya povsyudu
-I nahoditsya vezde!
-On vsegda kuda-to mchitsya
-On uzhasno ogorchitsya,
-Esli chto-nibud' na svete
-Vdrug sluchitsya bez nego!
+Horosho brodit' po svetu
+S karamel'koj za shchekoj
+A eshchyo odnu dlya druga
+Vzyat' v karmashek pro zapas
 
-Previous lesson: stolbitsa.com/fistachka/obezyanki<br><br>
-![з2](https://github.com/user-attachments/assets/347c20b5-a2bd-4a70-9f20-84e451028618)
-![з1](https://github.com/user-attachments/assets/687e7d7a-810f-4a60-8657-79b8eb5eeb17)
+Potomu chto, potomu chto
+Vsekh nuzhnee i dorozhe
+Vsekh doverchivej i strozhe
+V etom mire dobrota
+V etom mire dobrota<br><br>
 
