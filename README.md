@@ -31,4 +31,6 @@ Esli chto-nibud' na svete
 Vdrug sluchitsya bez nego!
 
 Previous lesson: stolbitsa.com/fistachka/obezyanki<br><br>
+![з2](https://github.com/user-attachments/assets/347c20b5-a2bd-4a70-9f20-84e451028618)
+![з1](https://github.com/user-attachments/assets/687e7d7a-810f-4a60-8657-79b8eb5eeb17)
 
