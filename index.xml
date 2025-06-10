@@ -2,11 +2,11 @@
 <level>
   <owner>Fistachka</owner>
   <repo>funtik</repo>
-  <version>v1.0.15</version>
+  <version>v1.0.16</version>
   <next number="1" owner="Fistachka" repo="funtik2"/>
   <readme>
-    <ru>00c96615d90e0f30e4c34ecd63be821a88ecac146c4d0f98e4f923e3689a6269</ru>
-    <en>79a0b11cf43546e29da1a787270f1ebf540ff5f204692de98cf5b75a6099ed43</en>
+    <ru>6c49479f532617d8b4181dab1cd6f457f0b9fd44a32f24a1c89c844d294db0b2</ru>
+    <en>ea7c47726cbb88d6a0e9a4be3a0cbad073aa5ac56cdb61408904c2635dee6eac</en>
   </readme>
   <license>b1b99f5538d1fd3702219bff50c665196dfa42f6ee755c37fe41a6178d6bc6e5</license>
   <exercise number="1">
@@ -14,7 +14,7 @@
     <bpm>153</bpm>
     <lowestNote>18</lowestNote>
     <tonalities>2</tonalities>
-    <video name="1t.mp4" size="1113453" type="video/mp4" volume="1">131022e9b990d1d004b6c97fb0a7639820e2d5f16bfc0d421755cf5ea86ae01b</video>
+    <video name="1t.mp4" size="1113453" type="video/mp4" volume="1">1a20c38e51e6394284740945e63717da4164baafb7b3d1b5e6abb29b182e518c</video>
     <notes>
       <note number="1" values="58" ticks="143" durationTicks="40" ppq="96" velocity="0.843"/>
       <note number="2" values="58" ticks="193" durationTicks="39" ppq="96" velocity="0.906"/>
