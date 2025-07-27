@@ -3,6 +3,7 @@
 ![з2](https://github.com/user-attachments/assets/347c20b5-a2bd-4a70-9f20-84e451028618)
 
 <iframe width="315" height="560" src="https://www.youtube.com/embed/a7ZsmVVWf78" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r3SJb_hKwfI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
 
 Хорошо бродить по свету
 С карамелькой за щекой
@@ -20,6 +21,7 @@
 ![з2](https://github.com/user-attachments/assets/347c20b5-a2bd-4a70-9f20-84e451028618)
 
 <iframe width="315" height="560" src="https://www.youtube.com/embed/pSfoFEWPI4Y" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hNLAXOKzAqk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
 
 Horosho brodit' po svetu
 S karamel'koj za shchekoj
